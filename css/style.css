@@ -1,0 +1,41 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    line-height: 37px;
+    padding: 23px;
+}
+
+#content {
+    width: 40rem;
+    float: left;
+    padding-left: 6rem;
+
+}
+#main {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 75rem;
+}
+#sidebar {
+    width: 20rem;
+    float: left;
+    padding-left: 5rem;
+
+}
+.card {
+    border: 1px black solid;
+}
+.mt-6 {
+    margin-top: 6rem;
+}
+.mt-1 {
+    margin-top: 1rem;
+}
+
+#card1 .title {
+    color: green;
+}
+
+#card2 .title {
+    color: red;
+}
